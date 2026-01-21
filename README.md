@@ -18,9 +18,6 @@ Javascript, Python, Html, Css...
  - Aprendendo mais Sobre Servidores 
  - Descobrindo mais Sobre VueJS
 
-## Projetos em desenvolvimento e algumas experiencias
-- Sites e aplicações em Html, Css, Js, Node.js, Python e Sqlite.
-
 ## Fazendo oque atualmente? 
 - Estudando js e c#, 
 - Aprimorando manipulação com html e css.
